@@ -1,0 +1,5 @@
+logs/
+dags/__pycache__
+plugins
+docker-compose.yaml
+.env
